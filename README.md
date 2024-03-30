@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaxminarayanBehera
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Adv Java
 - 📫 How to reach me laxminarayanbehera2002@gmail.com
 
 <!---
