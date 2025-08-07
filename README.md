@@ -82,29 +82,14 @@ I love building scalable web applications and solving real-world problems throug
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="45" height="45"/>
 </p>
 
-### **Other Technologies**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="45" height="45"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="Materialize" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="NativeScript" width="45" height="45"/>
-</p>
+
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaxminarayanBehera&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaxminarayanBehera&theme=radical" alt="Streak" />
-</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LaxminarayanBehera&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaxminarayanBehera&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
